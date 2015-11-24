@@ -7,8 +7,8 @@ Find translation files. Extract and combine strings. Export to format of your ch
 * When? You have a localized project which consists of different parts (e.g. web, mobile, app). You want to bring together all the different translation strings into one resource (file).
 * Why? Makes it easy to create a single resource (file) from many different translation files to give to a translator.
 * How? 
-** See all commands: php src/cli.php 
-** Execute with config file: php src/cli.php -c myconfig.yaml -e android -p myproject -q
+ * See all commands: php src/cli.php 
+ * Execute with config file: php src/cli.php -c myconfig.yaml -e android -p myproject -q
 
 ### Minimum requirements ###
 
@@ -25,4 +25,4 @@ Find translation files. Extract and combine strings. Export to format of your ch
 
 ### Who do I talk to? ###
 
-* Created by Fabio Bacigalupo. Feel free to get in touch (OpenHaus on github.com). I´d love to hear your feedback!
+* Created by * [Fabio Bacigalupo](mailto:f.bacigalupo@open-haus.de). Feel free to get in touch (OpenHaus on github.com). I´d love to hear your feedback!
